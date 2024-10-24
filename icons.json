@@ -1,0 +1,690 @@
+{
+    "name": "App Store ICON",
+    "description": "test",
+    "icons": [
+        {
+            "name": "ApowerMirror- Screen Mirroring.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ApowerMirror- Screen Mirroring.png"
+        },
+        {
+            "name": "Apple Music.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Music.png"
+        },
+        {
+            "name": "Apple TV.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple TV.png"
+        },
+        {
+            "name": "BOSS直聘-招聘求职找工作神器.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/BOSS直聘-招聘求职找工作神器.png"
+        },
+        {
+            "name": "Canva_ AI Photo & Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Canva_ AI Photo & Video Editor.png"
+        },
+        {
+            "name": "CapCut - Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/CapCut - Video Editor.png"
+        },
+        {
+            "name": "ChatG4o-官方正版AI人工智能聊天机器人.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatG4o-官方正版AI人工智能聊天机器人.png"
+        },
+        {
+            "name": "ChatG4o-官方正版Ai聊天机器人.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatG4o-官方正版Ai聊天机器人.png"
+        },
+        {
+            "name": "ChatGo-中文版AI智能小助手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatGo-中文版AI智能小助手.png"
+        },
+        {
+            "name": "ChatGP - 官方中文正版AI人工智能.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatGP - 官方中文正版AI人工智能.png"
+        },
+        {
+            "name": "ChatGp4o-官方中文版Ai聊天机器人.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatGp4o-官方中文版Ai聊天机器人.png"
+        },
+        {
+            "name": "ChatGp4o-官方正版中文人工智能AI聊天机器人.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatGp4o-官方正版中文人工智能AI聊天机器人.png"
+        },
+        {
+            "name": "ChatGtp4o-官方中文正版Ai智能聊天机器人.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ChatGtp4o-官方中文正版Ai智能聊天机器人.png"
+        },
+        {
+            "name": "Collage Maker - LiveCollage.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Collage Maker - LiveCollage.png"
+        },
+        {
+            "name": "Cookie 记账.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Cookie 记账.png"
+        },
+        {
+            "name": "Discord - Talk, Play, Hang Out.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Discord - Talk, Play, Hang Out.png"
+        },
+        {
+            "name": "Documents_ File Manager & Docs.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Documents_ File Manager & Docs.png"
+        },
+        {
+            "name": "Duolingo - Language Lessons.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Duolingo - Language Lessons.png"
+        },
+        {
+            "name": "Durex官方APP旗艦店.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Durex官方APP旗艦店.png"
+        },
+        {
+            "name": "Facebook.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Facebook.png"
+        },
+        {
+            "name": "Facetune AI Photo_Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Facetune AI Photo_Video Editor.png"
+        },
+        {
+            "name": "Faceu激萌-你就这么好看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Faceu激萌-你就这么好看.png"
+        },
+        {
+            "name": "Gmail - Email by Google.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Gmail - Email by Google.png"
+        },
+        {
+            "name": "Google Meet.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Google Meet.png"
+        },
+        {
+            "name": "Google Photos_ Backup & Edit.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Google Photos_ Backup & Edit.png"
+        },
+        {
+            "name": "GroupMe.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/GroupMe.png"
+        },
+        {
+            "name": "iMovie.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/iMovie.png"
+        },
+        {
+            "name": "Infuse • Video Player.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Infuse • Video Player.png"
+        },
+        {
+            "name": "InShot - Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/InShot - Video Editor.png"
+        },
+        {
+            "name": "Instagram.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Instagram.png"
+        },
+        {
+            "name": "Kik Messaging & Chat App.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Kik Messaging & Chat App.png"
+        },
+        {
+            "name": "Life360_ Find Friends & Family.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Life360_ Find Friends & Family.png"
+        },
+        {
+            "name": "Link In Bio _ Links Creator.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Link In Bio _ Links Creator.png"
+        },
+        {
+            "name": "Loon.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Loon.png"
+        },
+        {
+            "name": "Magisto Video Editor & Maker.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Magisto Video Editor & Maker.png"
+        },
+        {
+            "name": "Messenger (1).png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Messenger (1).png"
+        },
+        {
+            "name": "Messenger.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Messenger.png"
+        },
+        {
+            "name": "Molica AI-一站式AI工具集合.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Molica AI-一站式AI工具集合.png"
+        },
+        {
+            "name": "MOMO陌陌.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/MOMO陌陌.png"
+        },
+        {
+            "name": "MX Video Player HD.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/MX Video Player HD.png"
+        },
+        {
+            "name": "Picsart AI Photo Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Picsart AI Photo Video Editor.png"
+        },
+        {
+            "name": "QQ.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/QQ.png"
+        },
+        {
+            "name": "QQ音乐 - 听我想听.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/QQ音乐 - 听我想听.png"
+        },
+        {
+            "name": "Quantumult X.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Quantumult X.png"
+        },
+        {
+            "name": "Rakuten Viber Messenger.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Rakuten Viber Messenger.png"
+        },
+        {
+            "name": "Remind_ School Communication.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Remind_ School Communication.png"
+        },
+        {
+            "name": "Shadowrocket.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Shadowrocket.png"
+        },
+        {
+            "name": "Skype.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Skype.png"
+        },
+        {
+            "name": "SlideShow Maker Photo to Video.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/SlideShow Maker Photo to Video.png"
+        },
+        {
+            "name": "Smule_ Sing & Record Karaoke.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Smule_ Sing & Record Karaoke.png"
+        },
+        {
+            "name": "Snapchat.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Snapchat.png"
+        },
+        {
+            "name": "Soul-年轻人的社交元宇宙.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Soul-年轻人的社交元宇宙.png"
+        },
+        {
+            "name": "SoundCloud_ Discover New Music.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/SoundCloud_ Discover New Music.png"
+        },
+        {
+            "name": "Spotify - Music and Podcasts.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Spotify - Music and Podcasts.png"
+        },
+        {
+            "name": "TextNow_ Call + Text Unlimited.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/TextNow_ Call + Text Unlimited.png"
+        },
+        {
+            "name": "Threads.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Threads.png"
+        },
+        {
+            "name": "Tibni-国际创作者服务平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Tibni-国际创作者服务平台.png"
+        },
+        {
+            "name": "Tiktock 国际版 - 海外短视频.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Tiktock 国际版 - 海外短视频.png"
+        },
+        {
+            "name": "Tinder Dating App_ Chat & Date.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Tinder Dating App_ Chat & Date.png"
+        },
+        {
+            "name": "TiPss-国际版短视频创作平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/TiPss-国际版短视频创作平台.png"
+        },
+        {
+            "name": "Titpok 国际版 - 海外短视频.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Titpok 国际版 - 海外短视频.png"
+        },
+        {
+            "name": "Translate Now - AI Translator.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Translate Now - AI Translator.png"
+        },
+        {
+            "name": "Triller_ Social Videos & Clips.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Triller_ Social Videos & Clips.png"
+        },
+        {
+            "name": "Twitch_ Live Streaming.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Twitch_ Live Streaming.png"
+        },
+        {
+            "name": "Uber - Request a ride.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Uber - Request a ride.png"
+        },
+        {
+            "name": "UC浏览器-小说短视频抢先看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/UC浏览器-小说短视频抢先看.png"
+        },
+        {
+            "name": "Videos.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Videos.png"
+        },
+        {
+            "name": "VideoShow AI Video Editor.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/VideoShow AI Video Editor.png"
+        },
+        {
+            "name": "VivaVideo - Video Editor&Maker.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/VivaVideo - Video Editor&Maker.png"
+        },
+        {
+            "name": "VPN cat_ Fast Secure Unlimited.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/VPN cat_ Fast Secure Unlimited.png"
+        },
+        {
+            "name": "WeChat-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/WeChat-Mac-512x512.png"
+        },
+        {
+            "name": "WhatsApp Messenger.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/WhatsApp Messenger.png"
+        },
+        {
+            "name": "WPS Office - 智能AI办公助手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/WPS Office - 智能AI办公助手.png"
+        },
+        {
+            "name": "X.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/X.png"
+        },
+        {
+            "name": "YouTube_ Watch, Listen, Stream.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/YouTube_ Watch, Listen, Stream.png"
+        },
+        {
+            "name": "Zoom Workplace.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Zoom Workplace.png"
+        },
+        {
+            "name": "中信银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/中信银行.png"
+        },
+        {
+            "name": "中国农业银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/中国农业银行.png"
+        },
+        {
+            "name": "中国工商银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/中国工商银行.png"
+        },
+        {
+            "name": "中国建设银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/中国建设银行.png"
+        },
+        {
+            "name": "中国银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/中国银行.png"
+        },
+        {
+            "name": "买单吧-交通银行信用卡.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/买单吧-交通银行信用卡.png"
+        },
+        {
+            "name": "云闪付-银行业统一移动支付App (1).png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/云闪付-银行业统一移动支付App (1).png"
+        },
+        {
+            "name": "云闪付-银行业统一移动支付App.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/云闪付-银行业统一移动支付App.png"
+        },
+        {
+            "name": "交管12123.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/交管12123.png"
+        },
+        {
+            "name": "交通银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/交通银行.png"
+        },
+        {
+            "name": "京东-又便宜又好.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/京东-又便宜又好.png"
+        },
+        {
+            "name": "他趣-主动就有故事.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/他趣-主动就有故事.png"
+        },
+        {
+            "name": "作业帮-中小学家长作业检查和辅导工具.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/作业帮-中小学家长作业检查和辅导工具.png"
+        },
+        {
+            "name": "光大银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/光大银行.png"
+        },
+        {
+            "name": "全智.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/全智.png"
+        },
+        {
+            "name": "全能AI - 音乐、视频、聊天、写作、绘画.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/全能AI - 音乐、视频、聊天、写作、绘画.png"
+        },
+        {
+            "name": "兴业银行手机银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/兴业银行手机银行.png"
+        },
+        {
+            "name": "剧丰收-全网热门短剧和影视片无限看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/剧丰收-全网热门短剧和影视片无限看.png"
+        },
+        {
+            "name": "剪映.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/剪映.png"
+        },
+        {
+            "name": "动卡空间-中信银行信用卡.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/动卡空间-中信银行信用卡.png"
+        },
+        {
+            "name": "发现精彩-广发银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/发现精彩-广发银行.png"
+        },
+        {
+            "name": "咪咕音乐-让音乐更有趣.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/咪咕音乐-让音乐更有趣.png"
+        },
+        {
+            "name": "咪咕音乐彩铃版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/咪咕音乐彩铃版.png"
+        },
+        {
+            "name": "唱吧.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/唱吧.png"
+        },
+        {
+            "name": "国美-电器消费潮人的选择.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/国美-电器消费潮人的选择.png"
+        },
+        {
+            "name": "大众点评-美食旅游攻略逛吃必备.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/大众点评-美食旅游攻略逛吃必备.png"
+        },
+        {
+            "name": "天天来猜歌.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/天天来猜歌.png"
+        },
+        {
+            "name": "夸克-AI全能助手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/夸克-AI全能助手.png"
+        },
+        {
+            "name": "学信网.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/学信网.png"
+        },
+        {
+            "name": "寺库奢侈品－全球奢侈品海淘购物平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/寺库奢侈品－全球奢侈品海淘购物平台.png"
+        },
+        {
+            "name": "小红书 – 你的生活指南.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/小红书 – 你的生活指南.png"
+        },
+        {
+            "name": "平安口袋银行-更懂您的智能银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/平安口袋银行-更懂您的智能银行.png"
+        },
+        {
+            "name": "广发银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/广发银行.png"
+        },
+        {
+            "name": "微博.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/微博.png"
+        },
+        {
+            "name": "心动短剧-全网热门短剧海量小视频App.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/心动短剧-全网热门短剧海量小视频App.png"
+        },
+        {
+            "name": "快影.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/快影.png"
+        },
+        {
+            "name": "快手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/快手.png"
+        },
+        {
+            "name": "快手极速版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/快手极速版.png"
+        },
+        {
+            "name": "快音Kuaiyin-车载音乐抖快神曲大全.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/快音Kuaiyin-车载音乐抖快神曲大全.png"
+        },
+        {
+            "name": "抖店-抖音电商商家版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖店-抖音电商商家版.png"
+        },
+        {
+            "name": "抖看小剧场.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖看小剧场.png"
+        },
+        {
+            "name": "抖音.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音.png"
+        },
+        {
+            "name": "抖音商城.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音商城.png"
+        },
+        {
+            "name": "抖音来客.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音来客.png"
+        },
+        {
+            "name": "抖音极速版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音极速版.png"
+        },
+        {
+            "name": "抖音火山版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音火山版.png"
+        },
+        {
+            "name": "抖音直播伴侣 - 高画质开播.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音直播伴侣 - 高画质开播.png"
+        },
+        {
+            "name": "抖音精选-抖音旗下优质视频平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/抖音精选-抖音旗下优质视频平台.png"
+        },
+        {
+            "name": "招商银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/招商银行.png"
+        },
+        {
+            "name": "拼多多 - 多多买菜，百亿补贴.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/拼多多 - 多多买菜，百亿补贴.png"
+        },
+        {
+            "name": "拼多多商家版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/拼多多商家版.png"
+        },
+        {
+            "name": "掌上扫描宝-手机智能扫描仪，全能扫描.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/掌上扫描宝-手机智能扫描仪，全能扫描.png"
+        },
+        {
+            "name": "掌上生活-招商银行信用卡.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/掌上生活-招商银行信用卡.png"
+        },
+        {
+            "name": "探探－探索精彩探索爱.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/探探－探索精彩探索爱.png"
+        },
+        {
+            "name": "搜狗输入法-语音变声斗图表情.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/搜狗输入法-语音变声斗图表情.png"
+        },
+        {
+            "name": "支付宝-便捷生活，一点就好.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/支付宝-便捷生活，一点就好.png"
+        },
+        {
+            "name": "新华财经-国家金融信息平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/新华财经-国家金融信息平台.png"
+        },
+        {
+            "name": "智谱清言.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/智谱清言.png"
+        },
+        {
+            "name": "来看短剧-全网精彩短剧抢先看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/来看短剧-全网精彩短剧抢先看.png"
+        },
+        {
+            "name": "极乐圈-蛙趣树洞.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/极乐圈-蛙趣树洞.png"
+        },
+        {
+            "name": "楚税通.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/楚税通.png"
+        },
+        {
+            "name": "民生银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/民生银行.png"
+        },
+        {
+            "name": "江苏银行手机银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/江苏银行手机银行.png"
+        },
+        {
+            "name": "汽水音乐 - 抖音音乐版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/汽水音乐 - 抖音音乐版.png"
+        },
+        {
+            "name": "浦发银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/浦发银行.png"
+        },
+        {
+            "name": "淘宝-天猫双11全球狂欢季.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/淘宝-天猫双11全球狂欢季.png"
+        },
+        {
+            "name": "爱奇艺-《七夜雪》恋恋剧场独播.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/爱奇艺-《七夜雪》恋恋剧场独播.png"
+        },
+        {
+            "name": "爱奇艺-七夜雪 恋恋剧场独播-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/爱奇艺-七夜雪 恋恋剧场独播-Mac-512x512.png"
+        },
+        {
+            "name": "电子税务局.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/电子税务局.png"
+        },
+        {
+            "name": "番茄畅听-海量小说音乐评书全场畅听.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/番茄畅听-海量小说音乐评书全场畅听.png"
+        },
+        {
+            "name": "百度.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/百度.png"
+        },
+        {
+            "name": "百度贴吧.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/百度贴吧.png"
+        },
+        {
+            "name": "百度阅读-电子书看书阅读神器.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/百度阅读-电子书看书阅读神器.png"
+        },
+        {
+            "name": "知乎.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/知乎.png"
+        },
+        {
+            "name": "积目-专属年轻人的扩圈交友平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/积目-专属年轻人的扩圈交友平台.png"
+        },
+        {
+            "name": "等鱼短剧-全网热门短剧随心看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/等鱼短剧-全网热门短剧随心看.png"
+        },
+        {
+            "name": "红果短剧-海量热门短剧随心看.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/红果短剧-海量热门短剧随心看.png"
+        },
+        {
+            "name": "网商银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/网商银行.png"
+        },
+        {
+            "name": "网易云音乐-畅听我们的歌.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/网易云音乐-畅听我们的歌.png"
+        },
+        {
+            "name": "美图秀秀.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美图秀秀.png"
+        },
+        {
+            "name": "美颜相机.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美颜相机.png"
+        },
+        {
+            "name": "腾讯新闻.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/腾讯新闻.png"
+        },
+        {
+            "name": "腾讯视频-心动的信号7独家热播.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/腾讯视频-心动的信号7独家热播.png"
+        },
+        {
+            "name": "虎牙直播HD-游戏互动直播平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/虎牙直播HD-游戏互动直播平台.png"
+        },
+        {
+            "name": "西瓜视频.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/西瓜视频.png"
+        },
+        {
+            "name": "豆包 - 抖音旗下 AI 智能助手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/豆包 - 抖音旗下 AI 智能助手.png"
+        },
+        {
+            "name": "迅雷-您的专享云盘.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/迅雷-您的专享云盘.png"
+        },
+        {
+            "name": "邮储银行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/邮储银行.png"
+        },
+        {
+            "name": "酷我音乐-好音质用酷我.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/酷我音乐-好音质用酷我.png"
+        },
+        {
+            "name": "酷狗概念版-简约设计,年轻人的音乐播放器.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/酷狗概念版-简约设计,年轻人的音乐播放器.png"
+        },
+        {
+            "name": "酷狗音速版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/酷狗音速版.png"
+        },
+        {
+            "name": "钉钉.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/钉钉.png"
+        },
+        {
+            "name": "音乐.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/音乐.png"
+        },
+        {
+            "name": "高德地图-高德打车,导航公交地铁出行.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/高德地图-高德打车,导航公交地铁出行.png"
+        },
+        {
+            "name": "麦当劳McDonald's - 到店取餐 麦咖啡 麦乐送.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/麦当劳McDonald's - 到店取餐 麦咖啡 麦乐送.png"
+        }
+    ]
+}
