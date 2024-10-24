@@ -3,6 +3,10 @@
     "description": "图标来自苹果商店，144px",
     "icons": [
         {
+            "name": "58同城-招聘求职找工作家政租房二手车.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/58同城-招聘求职找工作家政租房二手车.png"
+        },
+        {
             "name": "ApowerMirror- Screen Mirroring.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ApowerMirror- Screen Mirroring.png"
         },
@@ -61,6 +65,10 @@
         {
             "name": "Cookie 记账.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Cookie 记账.png"
+        },
+        {
+            "name": "CPU Dasher - 手机管家硬件工具箱集合.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/CPU Dasher - 手机管家硬件工具箱集合.png"
         },
         {
             "name": "Discord - Talk, Play, Hang Out.png",
@@ -247,6 +255,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Titpok 国际版 - 海外短视频.png"
         },
         {
+            "name": "Top Weather - 天气预报 24小时天气.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Top Weather - 天气预报 24小时天气.png"
+        },
+        {
             "name": "Translate Now - AI Translator.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Translate Now - AI Translator.png"
         },
@@ -391,6 +403,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/发现精彩-广发银行.png"
         },
         {
+            "name": "和平精英.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/和平精英.png"
+        },
+        {
             "name": "咪咕音乐-让音乐更有趣.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/咪咕音乐-让音乐更有趣.png"
         },
@@ -401,6 +417,10 @@
         {
             "name": "唱吧.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/唱吧.png"
+        },
+        {
+            "name": "团长帮.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/团长帮.png"
         },
         {
             "name": "国美-电器消费潮人的选择.png",
@@ -527,6 +547,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/搜狗输入法-语音变声斗图表情.png"
         },
         {
+            "name": "携程旅行-订酒店机票火车票.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/携程旅行-订酒店机票火车票.png"
+        },
+        {
             "name": "支付宝-便捷生活，一点就好.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/支付宝-便捷生活，一点就好.png"
         },
@@ -549,6 +573,10 @@
         {
             "name": "楚税通.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/楚税通.png"
+        },
+        {
+            "name": "欢乐斗地主-新增掼蛋玩法.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/欢乐斗地主-新增掼蛋玩法.png"
         },
         {
             "name": "民生银行.png",
@@ -579,6 +607,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/爱奇艺-七夜雪 恋恋剧场独播-Mac-512x512.png"
         },
         {
+            "name": "王者荣耀.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/王者荣耀.png"
+        },
+        {
             "name": "电子税务局.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/电子税务局.png"
         },
@@ -607,6 +639,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/积目-专属年轻人的扩圈交友平台.png"
         },
         {
+            "name": "穿越火线-枪战王者.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/穿越火线-枪战王者.png"
+        },
+        {
             "name": "等鱼短剧-全网热门短剧随心看.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/等鱼短剧-全网热门短剧随心看.png"
         },
@@ -623,8 +659,44 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/网易云音乐-畅听我们的歌.png"
         },
         {
+            "name": "美团-美好生活小帮手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团-美好生活小帮手.png"
+        },
+        {
+            "name": "美团众包-兼职轻松赚，送餐好帮手.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团众包-兼职轻松赚，送餐好帮手.png"
+        },
+        {
+            "name": "美团优选-超低价！享好物.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团优选-超低价！享好物.png"
+        },
+        {
+            "name": "美团外卖-外卖订餐,送啥都快.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团外卖-外卖订餐,送啥都快.png"
+        },
+        {
+            "name": "美团开店宝 (原美团商家).png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团开店宝 (原美团商家).png"
+        },
+        {
+            "name": "美团打车-品质安全快车专车出租车软件.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团打车-品质安全快车专车出租车软件.png"
+        },
+        {
+            "name": "美团民宿-民宿短租住宿平台.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团民宿-民宿短租住宿平台.png"
+        },
+        {
+            "name": "美团配送-商家版.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美团配送-商家版.png"
+        },
+        {
             "name": "美图秀秀.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美图秀秀.png"
+        },
+        {
+            "name": "美职篮篮球世界.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/美职篮篮球世界.png"
         },
         {
             "name": "美颜相机.png",
