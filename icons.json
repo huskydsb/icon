@@ -3,24 +3,76 @@
     "description": "图标来自苹果商店，144px",
     "icons": [
         {
-            "name": "58同城-招聘求职找工作家政租房二手车.png",
-            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/58同城-招聘求职找工作家政租房二手车.png"
+            "name": "1.App Store Connect.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/1.App Store Connect.png"
+        },
+        {
+            "name": "58同城.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/58同城.png"
         },
         {
             "name": "ApowerMirror- Screen Mirroring.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/ApowerMirror- Screen Mirroring.png"
         },
         {
+            "name": "Apple Books.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Books.png"
+        },
+        {
+            "name": "Apple Business Essentials.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Business Essentials.png"
+        },
+        {
+            "name": "Apple Developer.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Developer.png"
+        },
+        {
+            "name": "Apple Maps.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Maps.png"
+        },
+        {
+            "name": "Apple Music Classical.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Music Classical.png"
+        },
+        {
             "name": "Apple Music.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Music.png"
+        },
+        {
+            "name": "Apple News.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple News.png"
+        },
+        {
+            "name": "Apple Podcasts.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Podcasts.png"
+        },
+        {
+            "name": "Apple Remote Desktop-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Remote Desktop-Mac-512x512.png"
+        },
+        {
+            "name": "Apple Store.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Store.png"
+        },
+        {
+            "name": "Apple Support.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Support.png"
         },
         {
             "name": "Apple TV.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple TV.png"
         },
         {
+            "name": "Apple Wallet.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Apple Wallet.png"
+        },
+        {
             "name": "BOSS直聘-招聘求职找工作神器.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/BOSS直聘-招聘求职找工作神器.png"
+        },
+        {
+            "name": "Calendars_ Planner & Organizer.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Calendars_ Planner & Organizer.png"
         },
         {
             "name": "Canva_ AI Photo & Video Editor.png",
@@ -99,8 +151,20 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Faceu激萌-你就这么好看.png"
         },
         {
+            "name": "GarageBand-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/GarageBand-Mac-512x512.png"
+        },
+        {
+            "name": "GarageBand.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/GarageBand.png"
+        },
+        {
             "name": "Gmail - Email by Google.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Gmail - Email by Google.png"
+        },
+        {
+            "name": "Goodnotes 6.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Goodnotes 6.png"
         },
         {
             "name": "Google Meet.png",
@@ -113,6 +177,18 @@
         {
             "name": "GroupMe.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/GroupMe.png"
+        },
+        {
+            "name": "Home.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Home.png"
+        },
+        {
+            "name": "iMovie (1).png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/iMovie (1).png"
+        },
+        {
+            "name": "iMovie-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/iMovie-Mac-512x512.png"
         },
         {
             "name": "iMovie.png",
@@ -129,6 +205,18 @@
         {
             "name": "Instagram.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Instagram.png"
+        },
+        {
+            "name": "iTunes Store.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/iTunes Store.png"
+        },
+        {
+            "name": "Keynote-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Keynote-Mac-512x512.png"
+        },
+        {
+            "name": "Keynote.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Keynote.png"
         },
         {
             "name": "Kik Messaging & Chat App.png",
@@ -151,8 +239,8 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Magisto Video Editor & Maker.png"
         },
         {
-            "name": "Messenger (1).png",
-            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Messenger (1).png"
+            "name": "Measure.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Measure.png"
         },
         {
             "name": "Messenger.png",
@@ -169,6 +257,18 @@
         {
             "name": "MX Video Player HD.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/MX Video Player HD.png"
+        },
+        {
+            "name": "Notability_ Notes, PDF.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Notability_ Notes, PDF.png"
+        },
+        {
+            "name": "Numbers-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Numbers-Mac-512x512.png"
+        },
+        {
+            "name": "Pages-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Pages-Mac-512x512.png"
         },
         {
             "name": "Picsart AI Photo Video Editor.png",
@@ -199,6 +299,18 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Shadowrocket.png"
         },
         {
+            "name": "Shazam_ Find Music & Concerts.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Shazam_ Find Music & Concerts.png"
+        },
+        {
+            "name": "Shazam_ Identify Songs-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Shazam_ Identify Songs-Mac-512x512.png"
+        },
+        {
+            "name": "Shortcuts.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Shortcuts.png"
+        },
+        {
             "name": "Skype.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Skype.png"
         },
@@ -227,6 +339,14 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Spotify - Music and Podcasts.png"
         },
         {
+            "name": "Stocks.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Stocks.png"
+        },
+        {
+            "name": "TestFlight.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/TestFlight.png"
+        },
+        {
             "name": "TextNow_ Call + Text Unlimited.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/TextNow_ Call + Text Unlimited.png"
         },
@@ -245,6 +365,10 @@
         {
             "name": "Tinder Dating App_ Chat & Date.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Tinder Dating App_ Chat & Date.png"
+        },
+        {
+            "name": "Tips.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Tips.png"
         },
         {
             "name": "TiPss-国际版短视频创作平台.png",
@@ -295,6 +419,10 @@
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/VPN cat_ Fast Secure Unlimited.png"
         },
         {
+            "name": "Watch.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Watch.png"
+        },
+        {
             "name": "WeChat-Mac-512x512.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/WeChat-Mac-512x512.png"
         },
@@ -309,6 +437,10 @@
         {
             "name": "X.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/X.png"
+        },
+        {
+            "name": "Xcode-Mac-512x512.png",
+            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/Xcode-Mac-512x512.png"
         },
         {
             "name": "YouTube_ Watch, Listen, Stream.png",
@@ -341,10 +473,6 @@
         {
             "name": "买单吧-交通银行信用卡.png",
             "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/买单吧-交通银行信用卡.png"
-        },
-        {
-            "name": "云闪付-银行业统一移动支付App (1).png",
-            "url": "https://raw.githubusercontent.com/huskydsb/icon/main/img/云闪付-银行业统一移动支付App (1).png"
         },
         {
             "name": "云闪付-银行业统一移动支付App.png",
