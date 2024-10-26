@@ -1,0 +1,1086 @@
+{
+  "name": "Country Flags",
+  "description": "国旗的精选集合",
+  "icons": [
+    {
+      "name": "ad 安道尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ad 安道尔.png"
+    },
+    {
+      "name": "ae 阿联酋.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ae 阿联酋.png"
+    },
+    {
+      "name": "af 阿富汗.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/af 阿富汗.png"
+    },
+    {
+      "name": "ag 安提瓜和巴布达.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ag 安提瓜和巴布达.png"
+    },
+    {
+      "name": "ai 安圭拉.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ai 安圭拉.png"
+    },
+    {
+      "name": "al 阿尔巴尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/al 阿尔巴尼亚.png"
+    },
+    {
+      "name": "am 亚美尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/am 亚美尼亚.png"
+    },
+    {
+      "name": "ao 安哥拉.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ao 安哥拉.png"
+    },
+    {
+      "name": "aq 南极洲.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/aq 南极洲.png"
+    },
+    {
+      "name": "ar 阿根廷.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ar 阿根廷.png"
+    },
+    {
+      "name": "arab 阿拉伯国家.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/arab 阿拉伯国家.png"
+    },
+    {
+      "name": "as 美属萨摩亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/as 美属萨摩亚.png"
+    },
+    {
+      "name": "at 奥地利.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/at 奥地利.png"
+    },
+    {
+      "name": "au 澳大利亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/au 澳大利亚.png"
+    },
+    {
+      "name": "aw 阿鲁巴.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/aw 阿鲁巴.png"
+    },
+    {
+      "name": "ax 奥兰群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ax 奥兰群岛.png"
+    },
+    {
+      "name": "az 阿塞拜疆.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/az 阿塞拜疆.png"
+    },
+    {
+      "name": "ba 波斯尼亚和黑塞哥维那.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ba 波斯尼亚和黑塞哥维那.png"
+    },
+    {
+      "name": "bb 巴巴多斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bb 巴巴多斯.png"
+    },
+    {
+      "name": "bd 孟加拉国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bd 孟加拉国.png"
+    },
+    {
+      "name": "be 比利时.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/be 比利时.png"
+    },
+    {
+      "name": "bf 布基纳法索.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bf 布基纳法索.png"
+    },
+    {
+      "name": "bg 保加利亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bg 保加利亚.png"
+    },
+    {
+      "name": "bh 巴林.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bh 巴林.png"
+    },
+    {
+      "name": "bi 布隆迪.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bi 布隆迪.png"
+    },
+    {
+      "name": "bj 贝宁.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bj 贝宁.png"
+    },
+    {
+      "name": "bl 圣巴泰勒米.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bl 圣巴泰勒米.png"
+    },
+    {
+      "name": "bm 百慕大.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bm 百慕大.png"
+    },
+    {
+      "name": "bn 文莱.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bn 文莱.png"
+    },
+    {
+      "name": "bo 玻利维亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bo 玻利维亚.png"
+    },
+    {
+      "name": "bq 博奈尔、圣尤斯特歇斯和萨巴.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bq 博奈尔、圣尤斯特歇斯和萨巴.png"
+    },
+    {
+      "name": "br 巴西.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/br 巴西.png"
+    },
+    {
+      "name": "bs 巴哈马.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bs 巴哈马.png"
+    },
+    {
+      "name": "bt 不丹.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bt 不丹.png"
+    },
+    {
+      "name": "bv 布维岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bv 布维岛.png"
+    },
+    {
+      "name": "bw 博茨瓦纳.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bw 博茨瓦纳.png"
+    },
+    {
+      "name": "by 白俄罗斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/by 白俄罗斯.png"
+    },
+    {
+      "name": "bz 伯利兹.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/bz 伯利兹.png"
+    },
+    {
+      "name": "ca 加拿大.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ca 加拿大.png"
+    },
+    {
+      "name": "cc 科科斯（基林）群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cc 科科斯（基林）群岛.png"
+    },
+    {
+      "name": "cd 刚果民主共和国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cd 刚果民主共和国.png"
+    },
+    {
+      "name": "cefta 中东欧自由贸易区.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cefta 中东欧自由贸易区.png"
+    },
+    {
+      "name": "cf 中非共和国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cf 中非共和国.png"
+    },
+    {
+      "name": "cg 刚果.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cg 刚果.png"
+    },
+    {
+      "name": "ch 瑞士.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ch 瑞士.png"
+    },
+    {
+      "name": "ci 科特迪瓦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ci 科特迪瓦.png"
+    },
+    {
+      "name": "ck 库克群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ck 库克群岛.png"
+    },
+    {
+      "name": "cl 智利.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cl 智利.png"
+    },
+    {
+      "name": "cm 喀麦隆.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cm 喀麦隆.png"
+    },
+    {
+      "name": "cn 中国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cn 中国.png"
+    },
+    {
+      "name": "co 哥伦比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/co 哥伦比亚.png"
+    },
+    {
+      "name": "cp 克里特岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cp 克里特岛.png"
+    },
+    {
+      "name": "cr 哥斯达黎加.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cr 哥斯达黎加.png"
+    },
+    {
+      "name": "cu 古巴.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cu 古巴.png"
+    },
+    {
+      "name": "cv 佛得角.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cv 佛得角.png"
+    },
+    {
+      "name": "cw 库拉索.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cw 库拉索.png"
+    },
+    {
+      "name": "cx 圣诞岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cx 圣诞岛.png"
+    },
+    {
+      "name": "cy 塞浦路斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cy 塞浦路斯.png"
+    },
+    {
+      "name": "cz 捷克.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/cz 捷克.png"
+    },
+    {
+      "name": "de 德国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/de 德国.png"
+    },
+    {
+      "name": "dg 迪戈加西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/dg 迪戈加西亚.png"
+    },
+    {
+      "name": "dj 吉布提.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/dj 吉布提.png"
+    },
+    {
+      "name": "dk 丹麦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/dk 丹麦.png"
+    },
+    {
+      "name": "dm 多米尼加.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/dm 多米尼加.png"
+    },
+    {
+      "name": "do 多米尼加共和国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/do 多米尼加共和国.png"
+    },
+    {
+      "name": "dz 阿尔及利亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/dz 阿尔及利亚.png"
+    },
+    {
+      "name": "eac 东非共同体.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/eac 东非共同体.png"
+    },
+    {
+      "name": "ec 厄瓜多尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ec 厄瓜多尔.png"
+    },
+    {
+      "name": "ee 爱沙尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ee 爱沙尼亚.png"
+    },
+    {
+      "name": "eg 埃及.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/eg 埃及.png"
+    },
+    {
+      "name": "eh 西撒哈拉.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/eh 西撒哈拉.png"
+    },
+    {
+      "name": "er 厄立特里亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/er 厄立特里亚.png"
+    },
+    {
+      "name": "es 西班牙.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/es 西班牙.png"
+    },
+    {
+      "name": "es-ct 加泰罗尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/es-ct 加泰罗尼亚.png"
+    },
+    {
+      "name": "es-ga 加利西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/es-ga 加利西亚.png"
+    },
+    {
+      "name": "es-pv 巴斯克地区.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/es-pv 巴斯克地区.png"
+    },
+    {
+      "name": "et 埃塞俄比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/et 埃塞俄比亚.png"
+    },
+    {
+      "name": "eu 欧洲联盟.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/eu 欧洲联盟.png"
+    },
+    {
+      "name": "fi 芬兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fi 芬兰.png"
+    },
+    {
+      "name": "fj 斐济.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fj 斐济.png"
+    },
+    {
+      "name": "fk 福克兰群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fk 福克兰群岛.png"
+    },
+    {
+      "name": "fm 密克罗尼西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fm 密克罗尼西亚.png"
+    },
+    {
+      "name": "fo 法罗群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fo 法罗群岛.png"
+    },
+    {
+      "name": "fr 法国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/fr 法国.png"
+    },
+    {
+      "name": "ga 加蓬.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ga 加蓬.png"
+    },
+    {
+      "name": "gb 英国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gb 英国.png"
+    },
+    {
+      "name": "gb-eng 英格兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gb-eng 英格兰.png"
+    },
+    {
+      "name": "gb-nir 北爱尔兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gb-nir 北爱尔兰.png"
+    },
+    {
+      "name": "gb-sct 苏格兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gb-sct 苏格兰.png"
+    },
+    {
+      "name": "gb-wls 威尔士.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gb-wls 威尔士.png"
+    },
+    {
+      "name": "gd 格林纳达.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gd 格林纳达.png"
+    },
+    {
+      "name": "ge 格鲁吉亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ge 格鲁吉亚.png"
+    },
+    {
+      "name": "gf 法属圭亚那.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gf 法属圭亚那.png"
+    },
+    {
+      "name": "gg 根西岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gg 根西岛.png"
+    },
+    {
+      "name": "gh 加纳.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gh 加纳.png"
+    },
+    {
+      "name": "gi 直布罗陀.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gi 直布罗陀.png"
+    },
+    {
+      "name": "gl 格林兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gl 格林兰.png"
+    },
+    {
+      "name": "gm 冈比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gm 冈比亚.png"
+    },
+    {
+      "name": "gn 几内亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gn 几内亚.png"
+    },
+    {
+      "name": "gp 瓜德罗普.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gp 瓜德罗普.png"
+    },
+    {
+      "name": "gq 赤道几内亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gq 赤道几内亚.png"
+    },
+    {
+      "name": "gr 希腊.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gr 希腊.png"
+    },
+    {
+      "name": "gs 南乔治亚和南桑威奇群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gs 南乔治亚和南桑威奇群岛.png"
+    },
+    {
+      "name": "gt 危地马拉.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gt 危地马拉.png"
+    },
+    {
+      "name": "gu 关岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gu 关岛.png"
+    },
+    {
+      "name": "gw 几内亚比绍.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gw 几内亚比绍.png"
+    },
+    {
+      "name": "gy 圭亚那.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/gy 圭亚那.png"
+    },
+    {
+      "name": "hk 中国香港.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/hk 中国香港.png"
+    },
+    {
+      "name": "hm 赫德岛和麦克唐纳岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/hm 赫德岛和麦克唐纳岛.png"
+    },
+    {
+      "name": "hn 洪都拉斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/hn 洪都拉斯.png"
+    },
+    {
+      "name": "hr 克罗地亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/hr 克罗地亚.png"
+    },
+    {
+      "name": "ht 海地.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ht 海地.png"
+    },
+    {
+      "name": "hu 匈牙利.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/hu 匈牙利.png"
+    },
+    {
+      "name": "ic 冰岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ic 冰岛.png"
+    },
+    {
+      "name": "id 印度尼西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/id 印度尼西亚.png"
+    },
+    {
+      "name": "ie 爱尔兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ie 爱尔兰.png"
+    },
+    {
+      "name": "il 以色列.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/il 以色列.png"
+    },
+    {
+      "name": "im 马恩岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/im 马恩岛.png"
+    },
+    {
+      "name": "in 印度.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/in 印度.png"
+    },
+    {
+      "name": "io 英属印度洋领地.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/io 英属印度洋领地.png"
+    },
+    {
+      "name": "iq 伊拉克.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/iq 伊拉克.png"
+    },
+    {
+      "name": "ir 伊朗.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ir 伊朗.png"
+    },
+    {
+      "name": "is 冰岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/is 冰岛.png"
+    },
+    {
+      "name": "it 意大利.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/it 意大利.png"
+    },
+    {
+      "name": "je 泽西岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/je 泽西岛.png"
+    },
+    {
+      "name": "jm 牙买加.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/jm 牙买加.png"
+    },
+    {
+      "name": "jo 约旦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/jo 约旦.png"
+    },
+    {
+      "name": "jp 日本.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/jp 日本.png"
+    },
+    {
+      "name": "ke 肯尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ke 肯尼亚.png"
+    },
+    {
+      "name": "kg 吉尔吉斯斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kg 吉尔吉斯斯坦.png"
+    },
+    {
+      "name": "kh 柬埔寨.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kh 柬埔寨.png"
+    },
+    {
+      "name": "ki 基里巴斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ki 基里巴斯.png"
+    },
+    {
+      "name": "km 科摩罗.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/km 科摩罗.png"
+    },
+    {
+      "name": "kn 圣基茨和尼维斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kn 圣基茨和尼维斯.png"
+    },
+    {
+      "name": "kp 朝鲜.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kp 朝鲜.png"
+    },
+    {
+      "name": "kr 韩国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kr 韩国.png"
+    },
+    {
+      "name": "kw 科威特.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kw 科威特.png"
+    },
+    {
+      "name": "ky 开曼群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ky 开曼群岛.png"
+    },
+    {
+      "name": "kz 哈萨克斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/kz 哈萨克斯坦.png"
+    },
+    {
+      "name": "la 老挝.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/la 老挝.png"
+    },
+    {
+      "name": "lb 黎巴嫩.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lb 黎巴嫩.png"
+    },
+    {
+      "name": "lc 圣露西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lc 圣露西亚.png"
+    },
+    {
+      "name": "li 列支敦士登.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/li 列支敦士登.png"
+    },
+    {
+      "name": "lk 斯里兰卡.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lk 斯里兰卡.png"
+    },
+    {
+      "name": "lr 利比里亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lr 利比里亚.png"
+    },
+    {
+      "name": "ls 莱索托.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ls 莱索托.png"
+    },
+    {
+      "name": "lt 立陶宛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lt 立陶宛.png"
+    },
+    {
+      "name": "lu 卢森堡.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lu 卢森堡.png"
+    },
+    {
+      "name": "lv 拉脱维亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/lv 拉脱维亚.png"
+    },
+    {
+      "name": "ly 利比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ly 利比亚.png"
+    },
+    {
+      "name": "ma 摩洛哥.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ma 摩洛哥.png"
+    },
+    {
+      "name": "mc 摩纳哥.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mc 摩纳哥.png"
+    },
+    {
+      "name": "md 摩尔多瓦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/md 摩尔多瓦.png"
+    },
+    {
+      "name": "me 黑山.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/me 黑山.png"
+    },
+    {
+      "name": "mf 法属圣马丁.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mf 法属圣马丁.png"
+    },
+    {
+      "name": "mg 马达加斯加.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mg 马达加斯加.png"
+    },
+    {
+      "name": "mh 马绍尔群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mh 马绍尔群岛.png"
+    },
+    {
+      "name": "mk 北马其顿.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mk 北马其顿.png"
+    },
+    {
+      "name": "ml 马里.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ml 马里.png"
+    },
+    {
+      "name": "mm 缅甸.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mm 缅甸.png"
+    },
+    {
+      "name": "mn 蒙古.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mn 蒙古.png"
+    },
+    {
+      "name": "mo 中国澳门.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mo 中国澳门.png"
+    },
+    {
+      "name": "mp 北马里亚纳群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mp 北马里亚纳群岛.png"
+    },
+    {
+      "name": "mq 马提尼克.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mq 马提尼克.png"
+    },
+    {
+      "name": "mr 毛里塔尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mr 毛里塔尼亚.png"
+    },
+    {
+      "name": "ms 蒙特塞拉特.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ms 蒙特塞拉特.png"
+    },
+    {
+      "name": "mt 马耳他.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mt 马耳他.png"
+    },
+    {
+      "name": "mu 毛里求斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mu 毛里求斯.png"
+    },
+    {
+      "name": "mv 马尔代夫.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mv 马尔代夫.png"
+    },
+    {
+      "name": "mw 马拉维.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mw 马拉维.png"
+    },
+    {
+      "name": "mx 墨西哥.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mx 墨西哥.png"
+    },
+    {
+      "name": "my 马来西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/my 马来西亚.png"
+    },
+    {
+      "name": "mz 莫桑比克.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/mz 莫桑比克.png"
+    },
+    {
+      "name": "na 纳米比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/na 纳米比亚.png"
+    },
+    {
+      "name": "nc 新喀里多尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nc 新喀里多尼亚.png"
+    },
+    {
+      "name": "ne 尼日尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ne 尼日尔.png"
+    },
+    {
+      "name": "nf 诺福克岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nf 诺福克岛.png"
+    },
+    {
+      "name": "ng 尼日利亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ng 尼日利亚.png"
+    },
+    {
+      "name": "ni 尼加拉瓜.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ni 尼加拉瓜.png"
+    },
+    {
+      "name": "nl 荷兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nl 荷兰.png"
+    },
+    {
+      "name": "no 挪威.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/no 挪威.png"
+    },
+    {
+      "name": "np 尼泊尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/np 尼泊尔.png"
+    },
+    {
+      "name": "nr 瑙鲁.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nr 瑙鲁.png"
+    },
+    {
+      "name": "nu 纽埃.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nu 纽埃.png"
+    },
+    {
+      "name": "nz 新西兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/nz 新西兰.png"
+    },
+    {
+      "name": "om 阿曼.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/om 阿曼.png"
+    },
+    {
+      "name": "pa 巴拿马.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pa 巴拿马.png"
+    },
+    {
+      "name": "pc 太平洋岛屿.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pc 太平洋岛屿.png"
+    },
+    {
+      "name": "pe 秘鲁.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pe 秘鲁.png"
+    },
+    {
+      "name": "pf 法属波利尼西亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pf 法属波利尼西亚.png"
+    },
+    {
+      "name": "pg 巴布亚新几内亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pg 巴布亚新几内亚.png"
+    },
+    {
+      "name": "ph 菲律宾.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ph 菲律宾.png"
+    },
+    {
+      "name": "pk 巴基斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pk 巴基斯坦.png"
+    },
+    {
+      "name": "pl 波兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pl 波兰.png"
+    },
+    {
+      "name": "pm 圣皮埃尔和密克隆.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pm 圣皮埃尔和密克隆.png"
+    },
+    {
+      "name": "pn 皮特凯恩群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pn 皮特凯恩群岛.png"
+    },
+    {
+      "name": "pr 波多黎各.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pr 波多黎各.png"
+    },
+    {
+      "name": "ps 巴勒斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ps 巴勒斯坦.png"
+    },
+    {
+      "name": "pt 葡萄牙.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pt 葡萄牙.png"
+    },
+    {
+      "name": "pw 帕劳.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/pw 帕劳.png"
+    },
+    {
+      "name": "py 巴拉圭.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/py 巴拉圭.png"
+    },
+    {
+      "name": "qa 卡塔尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/qa 卡塔尔.png"
+    },
+    {
+      "name": "re 留尼旺.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/re 留尼旺.png"
+    },
+    {
+      "name": "ro 罗马尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ro 罗马尼亚.png"
+    },
+    {
+      "name": "rs 塞尔维亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/rs 塞尔维亚.png"
+    },
+    {
+      "name": "ru 俄罗斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ru 俄罗斯.png"
+    },
+    {
+      "name": "rw 卢旺达.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/rw 卢旺达.png"
+    },
+    {
+      "name": "sa 沙特阿拉伯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sa 沙特阿拉伯.png"
+    },
+    {
+      "name": "sb 所罗门群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sb 所罗门群岛.png"
+    },
+    {
+      "name": "sc 塞舌尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sc 塞舌尔.png"
+    },
+    {
+      "name": "sd 苏丹.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sd 苏丹.png"
+    },
+    {
+      "name": "se 瑞典.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/se 瑞典.png"
+    },
+    {
+      "name": "sg 新加坡.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sg 新加坡.png"
+    },
+    {
+      "name": "sh 圣赫勒拿.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sh 圣赫勒拿.png"
+    },
+    {
+      "name": "sh-ac 圣赫勒拿岛 - 阿西恩.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sh-ac 圣赫勒拿岛 - 阿西恩.png"
+    },
+    {
+      "name": "sh-hl 圣赫勒拿岛 - 汉斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sh-hl 圣赫勒拿岛 - 汉斯.png"
+    },
+    {
+      "name": "sh-ta 圣赫勒拿岛 - 特里斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sh-ta 圣赫勒拿岛 - 特里斯坦.png"
+    },
+    {
+      "name": "si 斯洛文尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/si 斯洛文尼亚.png"
+    },
+    {
+      "name": "sj 斯瓦尔巴和扬马延.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sj 斯瓦尔巴和扬马延.png"
+    },
+    {
+      "name": "sk 斯洛伐克.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sk 斯洛伐克.png"
+    },
+    {
+      "name": "sl 塞拉利昂.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sl 塞拉利昂.png"
+    },
+    {
+      "name": "sm 圣马力诺.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sm 圣马力诺.png"
+    },
+    {
+      "name": "sn 塞内加尔.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sn 塞内加尔.png"
+    },
+    {
+      "name": "so 索马里.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/so 索马里.png"
+    },
+    {
+      "name": "sr 苏里南.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sr 苏里南.png"
+    },
+    {
+      "name": "ss 南苏丹.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ss 南苏丹.png"
+    },
+    {
+      "name": "st 圣多美和普林西比.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/st 圣多美和普林西比.png"
+    },
+    {
+      "name": "sv 萨尔瓦多.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sv 萨尔瓦多.png"
+    },
+    {
+      "name": "sx 荷属圣马丁.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sx 荷属圣马丁.png"
+    },
+    {
+      "name": "sy 叙利亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sy 叙利亚.png"
+    },
+    {
+      "name": "sz 斯威士兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/sz 斯威士兰.png"
+    },
+    {
+      "name": "tc 特克斯和凯科斯群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tc 特克斯和凯科斯群岛.png"
+    },
+    {
+      "name": "td 乍得.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/td 乍得.png"
+    },
+    {
+      "name": "tf 法属南部和南极领地.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tf 法属南部和南极领地.png"
+    },
+    {
+      "name": "tg 多哥.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tg 多哥.png"
+    },
+    {
+      "name": "th 泰国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/th 泰国.png"
+    },
+    {
+      "name": "tj 塔吉克斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tj 塔吉克斯坦.png"
+    },
+    {
+      "name": "tk 托克劳.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tk 托克劳.png"
+    },
+    {
+      "name": "tl 东帝汶.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tl 东帝汶.png"
+    },
+    {
+      "name": "tm 土库曼斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tm 土库曼斯坦.png"
+    },
+    {
+      "name": "tn 突尼斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tn 突尼斯.png"
+    },
+    {
+      "name": "to 汤加.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/to 汤加.png"
+    },
+    {
+      "name": "tr 土耳其.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tr 土耳其.png"
+    },
+    {
+      "name": "tt 特立尼达和多巴哥.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tt 特立尼达和多巴哥.png"
+    },
+    {
+      "name": "tv 图瓦卢.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tv 图瓦卢.png"
+    },
+    {
+      "name": "tw 台湾.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tw 台湾.png"
+    },
+    {
+      "name": "tz 坦桑尼亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/tz 坦桑尼亚.png"
+    },
+    {
+      "name": "ua 乌克兰.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ua 乌克兰.png"
+    },
+    {
+      "name": "ug 乌干达.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ug 乌干达.png"
+    },
+    {
+      "name": "um 美国本土外小岛屿.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/um 美国本土外小岛屿.png"
+    },
+    {
+      "name": "un 联合国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/un 联合国.png"
+    },
+    {
+      "name": "us 美国.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/us 美国.png"
+    },
+    {
+      "name": "uy 乌拉圭.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/uy 乌拉圭.png"
+    },
+    {
+      "name": "uz 乌兹别克斯坦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/uz 乌兹别克斯坦.png"
+    },
+    {
+      "name": "va 梵蒂冈.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/va 梵蒂冈.png"
+    },
+    {
+      "name": "vc 圣文森特和格林纳丁斯.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/vc 圣文森特和格林纳丁斯.png"
+    },
+    {
+      "name": "ve 委内瑞拉.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ve 委内瑞拉.png"
+    },
+    {
+      "name": "vg 英属维尔京群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/vg 英属维尔京群岛.png"
+    },
+    {
+      "name": "vi 美属维尔京群岛.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/vi 美属维尔京群岛.png"
+    },
+    {
+      "name": "vn 越南.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/vn 越南.png"
+    },
+    {
+      "name": "vu 瓦努阿图.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/vu 瓦努阿图.png"
+    },
+    {
+      "name": "wf 瓦利斯和富图纳.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/wf 瓦利斯和富图纳.png"
+    },
+    {
+      "name": "ws 萨摩亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ws 萨摩亚.png"
+    },
+    {
+      "name": "xk 科索沃.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/xk 科索沃.png"
+    },
+    {
+      "name": "xx 未知区域.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/xx 未知区域.png"
+    },
+    {
+      "name": "ye 也门.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/ye 也门.png"
+    },
+    {
+      "name": "yt 马约特.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/yt 马约特.png"
+    },
+    {
+      "name": "za 南非.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/za 南非.png"
+    },
+    {
+      "name": "zm 赞比亚.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/zm 赞比亚.png"
+    },
+    {
+      "name": "zw 津巴布韦.png",
+      "url": "https://raw.githubusercontent.com/huskydsb/icon/main/flags/zw 津巴布韦.png"
+    }
+  ]
+}
